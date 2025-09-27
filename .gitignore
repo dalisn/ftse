@@ -1,0 +1,17 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# SQLite database
+tasks.db
+
+# Other common ignores
+*.log
+.DS_Store  # For macOS
+*.swp
